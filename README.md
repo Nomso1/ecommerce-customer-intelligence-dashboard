@@ -22,3 +22,34 @@ The primary objectives of this project were to:
 - Measure the revenue contribution of each customer segment.
 - Evaluate product return rates and operational performance.
 - Identify opportunities to improve customer retention and business performance through data-driven insights.
+
+## Dataset
+The analysis was conducted using a **synthetic Amazon-like E-Commerce dataset** obtained from **Kaggle**. The dataset was designed to simulate realistic customer purchasing behavior, product information, seller performance, and order fulfillment processes in an online marketplace.
+
+### Dataset Summary
+
+- **Source:** [Amazon E-Commerce Dataset (Kaggle)](https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce)
+- **Dataset Type:** Synthetic E-Commerce Transactions
+- **Number of Records:** 1,000,000
+- **Number of Features:** 20
+- **Time Period:** Transactions spanning the last two years
+
+### Key Features
+
+The dataset includes information on:
+
+- Customer IDs
+- Product Categories and Subcategories
+- Brands
+- Product Pricing and Discounts
+- Customer Ratings and Reviews
+- Seller Ratings
+- Purchase Dates
+- Shipping Time
+- Customer Location
+- Device Used
+- Payment Method
+- Product Returns
+- Delivery Status
+
+> **Note:** This dataset is synthetic and was created for analytical and educational purposes. It does not contain real Amazon customer or transaction data.
