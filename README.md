@@ -185,3 +185,67 @@ Based on the findings, the following recommendations are proposed:
 
 5. **Monitor Operational KPIs**
    - Continuously track shipping performance, return rates, and customer segments using the dashboard to support timely, data-driven decision-making.
+
+## Tools & Technologies
+| Category | Tools |
+|----------|-------|
+| Programming Language | Python |
+| Data Analysis | Pandas, NumPy |
+| Data Visualization | Matplotlib |
+| Business Intelligence | Power BI |
+| Query & Modeling | DAX |
+| Development Environment | Jupyter Notebook |
+| Version Control | GitHub |
+| Dataset Source | Kaggle |
+
+## Repository Structure
+```text
+ecommerce-customer-intelligence-dashboard
+│
+├── data
+│   └── dataset_description.md
+│
+├── images
+│   ├── executive_overview.png
+│   ├── customer_intelligence.png
+│   └── operations&returns.png
+│
+├── notebooks
+│   └── ecommerce_analysis.ipynb
+│
+├── powerbi
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+```
+
+## How to Reproduce the Analysis
+1. Clone this repository to your local machine.
+
+2. Download the dataset from Kaggle:
+   - https://www.kaggle.com/datasets/sharmajicoder/amazon-e-commerce
+
+3. Open the Jupyter Notebook located in the `notebooks` folder.
+
+4. Install the required Python libraries if they are not already installed.
+
+5. Run the notebook to perform data cleaning, exploratory data analysis, feature engineering, and RFM segmentation.
+
+6. Open the Power BI report (...) or review the dashboard screenshots included in the `images` folder.
+
+## Project Limitations
+- The dataset is synthetic and does not represent actual Amazon customer or transaction data.
+- Some relationships observed in the analysis may not fully reflect real-world business behavior.
+- The Power BI report file is not included in this repository because it exceeds GitHub's file upload size limit.
+
+## About the Author
+**Chinomso Nnorom**
+
+Data Analyst with a background in Statistics, passionate about transforming data into actionable business insights through analytics, visualization, and storytelling.
+
+### Connect with Me
+
+- LinkedIn: *(Add your LinkedIn profile URL)*
+- Portfolio: *(Add your portfolio website URL)*
+- Email: *(Add your professional email address)*
