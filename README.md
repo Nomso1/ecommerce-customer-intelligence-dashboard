@@ -53,3 +53,97 @@ The dataset includes information on:
 - Delivery Status
 
 > **Note:** This dataset is synthetic and was created for analytical and educational purposes. It does not contain real Amazon customer or transaction data.
+
+## Project Workflow
+The project followed a structured analytics workflow consisting of the following stages:
+
+### 1. Data Understanding
+
+- Explored the dataset structure and data types.
+- Examined all 20 variables.
+- Assessed data quality and identified potential issues.
+
+### 2. Data Preparation
+
+- Converted data into appropriate formats.
+- Created additional features required for analysis.
+- Prepared the dataset for exploratory analysis and visualization.
+
+### 3. Exploratory Data Analysis (EDA)
+
+Performed exploratory analysis to answer key business questions, including:
+
+- Which product categories generate the most revenue?
+- What is the overall product return rate?
+- How does revenue vary across customer segments?
+- Which operational factors influence product returns?
+- How do shipping performance and seller ratings relate to returns?
+
+### 4. Customer Segmentation
+
+Applied **Recency, Frequency, and Monetary (RFM)** analysis to segment customers into:
+
+- High Value
+- Loyal
+- Potential
+- Low Value
+
+These segments were used to evaluate customer value and revenue contribution.
+
+### 5. Dashboard Development
+
+Designed an interactive Power BI dashboard consisting of three pages:
+
+- Executive Overview
+- Customer Intelligence
+- Operations & Returns
+
+The dashboard was built to enable stakeholders to monitor business performance and support data-driven decision-making.
+
+## Dashboard Walkthrough
+### 1. Executive Overview
+
+The Executive Overview page provides a high-level summary of the business, enabling decision-makers to quickly monitor revenue, customers, order volume, return rates, sales trends, and category performance.
+
+**Key Metrics**
+
+- Total Revenue
+- Total Orders
+- Total Customers
+- Average Order Value
+- Return Rate
+
+**Visuals Included**
+
+- Monthly Revenue Trend
+- Revenue by Category
+- Customer Segment Distribution
+- Average Revenue per Customer by Segment
+
+![Executive Overview](images/executive_overview.png)
+
+### 2. Customer Intelligence
+
+This page focuses on customer behavior and value by leveraging RFM segmentation. It helps identify which customer groups generate the most revenue and highlights the platform's highest-value customers.
+
+**Visuals Included**
+
+- Customer Segment Distribution
+- Revenue Contribution by Segment
+- Average Revenue per Customer
+- Top 10 Customers by Revenue
+
+![Customer Intelligence](images/customer_intelligence.png)
+
+### 3. Operations & Returns
+
+The Operations & Returns page evaluates operational performance by analyzing return rates, shipping efficiency, seller performance, and delivery outcomes. It highlights operational factors that may influence customer satisfaction and product returns.
+
+**Visuals Included**
+
+- Return Rate by Category
+- Shipping Time vs Return Rate
+- Seller Rating vs Return Rate
+- Delivery Status Distribution
+
+![Operations & Returns](images/operations&returns.png)
