@@ -147,3 +147,41 @@ The Operations & Returns page evaluates operational performance by analyzing ret
 - Delivery Status Distribution
 
 ![Operations & Returns](images/operations&returns.png)
+
+## Key Insights
+The analysis revealed several important business insights:
+
+### 📈 Revenue Performance
+
+- Electronics was the highest-performing product category, contributing approximately **66% of total revenue**.
+- Revenue was distributed almost evenly across customer devices (Mobile App, Web, and Tablet), indicating balanced platform usage.
+
+### 👥 Customer Intelligence
+
+- High Value customers contributed approximately **51.5% of total revenue** despite representing only about **25%** of the customer base.
+- High Value and Loyal customers together generated more than **88% of total revenue**, highlighting the importance of customer retention.
+- Average customer revenue increased significantly across the customer segments, with High Value customers generating the highest average spend.
+
+### 🚚 Operational Performance
+
+- The overall product return rate was **11.6%**.
+- Orders delivered in **6 days** experienced a return rate of approximately **20.7%**, nearly double the return rate for deliveries completed within 1–5 days.
+- Seller ratings showed minimal influence on product returns, suggesting that shipping performance has a greater impact on customer satisfaction than seller reputation.
+
+## Business Recommendations
+Based on the findings, the following recommendations are proposed:
+
+1. **Strengthen Customer Retention**
+   - Invest in loyalty programs and personalized marketing campaigns to retain High Value customers, who generate over half of the platform's revenue.
+
+2. **Increase Customer Lifetime Value**
+   - Develop targeted promotions aimed at converting Loyal customers into High Value customers through personalized product recommendations and incentives.
+
+3. **Improve Delivery Performance**
+   - Reduce delivery times where possible, particularly for orders approaching six days, to help minimize product returns and improve customer satisfaction.
+
+4. **Prioritize High-Performing Categories**
+   - Continue investing in Electronics while identifying opportunities to improve the performance of lower-revenue categories through pricing, promotions, or product assortment.
+
+5. **Monitor Operational KPIs**
+   - Continuously track shipping performance, return rates, and customer segments using the dashboard to support timely, data-driven decision-making.
