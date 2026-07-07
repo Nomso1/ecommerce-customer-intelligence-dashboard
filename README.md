@@ -246,6 +246,6 @@ Data Analyst with a background in Statistics, passionate about transforming data
 
 ### Connect with Me
 
-- LinkedIn: *(Add your LinkedIn profile URL)*
-- Portfolio: *(Add your portfolio website URL)*
-- Email: *(Add your professional email address)*
+- LinkedIn: *(https://www.linkedin.com/in/chinomso-nnorom-74458522a/)*
+- Portfolio: *([http://nomso.lovable.app/)*
+- Email: *(nnoromchinomso2019@gmail.com)*
