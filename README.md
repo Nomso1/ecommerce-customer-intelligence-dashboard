@@ -66,7 +66,7 @@ The project followed a structured analytics workflow consisting of the following
 ### 2. Data Preparation
 
 - Converted data into appropriate formats.
-- Created additional features required for analysis.
+- Created analytical features including revenue metrics and RFM components (Recency, Frequency, and Monetary values) for customer segmentation.
 - Prepared the dataset for exploratory analysis and visualization.
 
 ### 3. Exploratory Data Analysis (EDA)
@@ -158,7 +158,7 @@ The analysis revealed several important business insights:
 
 ### 👥 Customer Intelligence
 
-- High Value customers contributed approximately **51.5% of total revenue** despite representing only about **25%** of the customer base.
+- High Value customers generated approximately 51.5% of total revenue** despite representing only about **25%** of the customer base.
 - High Value and Loyal customers together generated more than **88% of total revenue**, highlighting the importance of customer retention.
 - Average customer revenue increased significantly across the customer segments, with High Value customers generating the highest average spend.
 
@@ -195,7 +195,7 @@ Based on the findings, the following recommendations are proposed:
 | Business Intelligence | Power BI |
 | Query & Modeling | DAX |
 | Development Environment | Jupyter Notebook |
-| Version Control | GitHub |
+| Repository Hosting | GitHub
 | Dataset Source | Kaggle |
 
 ## Repository Structure
@@ -246,6 +246,6 @@ Data Analyst with a background in Statistics, passionate about transforming data
 
 ### Connect with Me
 
-- LinkedIn: *https://www.linkedin.com/in/chinomso-nnorom-74458522a/*
-- Portfolio: *http://nomso.lovable.app/*
+- LinkedIn: [Chinomso Nnorom](https://www.linkedin.com/in/chinomso-nnorom-74458522a/)
+- Portfolio: [Portfolio Website](http://nomso.lovable.app/)
 - Email: *nnoromchinomso2019@gmail.com*
